@@ -12,7 +12,7 @@ class LoginPage {
     }
 
     get loginButton() {
-        return $('#login');
+        return $('#login-button');
     }
 
     get errorMessage() {
